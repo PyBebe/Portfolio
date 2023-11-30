@@ -14,7 +14,7 @@ _Мои выполненные проекты и примеры кода:_
 2. Программа кулинарной книги и работа с файлами - https://github.com/PyBebe/OOP-2/tree/main
 3. Работа с базами данных - https://github.com/PyBebe/BD/tree/main
 
-_Другие мои небольшие работы можно посмотреть здесь -_ https://replit.com/@pybebe?path=folder/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B
+Другие мои _небольшие работы_ можно посмотреть здесь - https://replit.com/@pybebe?path=folder/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B
 
 Буду рада сотрудничеству!
 
