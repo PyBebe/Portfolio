@@ -20,12 +20,12 @@ _Мои выполненные проекты и примеры кода:_
 _Курсовая работа_ с внешними API - приложение для резервного копирования фотографии с VK на Яндекс.Диск - https://github.com/PyBebe/Diplom-OOP-and-API
 
 Сейчас я учусь на курсе "Python для анализа данных" в Нетологии.
-Здесь собрала свежие примеры моего кода - https://github.com/PyBebe/DZ-analitika
+Здесь собрала _свежие примеры_ моего кода - https://github.com/PyBebe/DZ-analitika
 
 Буду рада сотрудничеству!
 
 Наталья Антименюк,
-+7 968 278 51 89 - моб. и WhatsApp
++7 968 278 51 89 - моб. и WhatsApp,
 @lea_ana - ТГ
 
-![Веселая девушка](https://static.tildacdn.com/tild3664-3134-4365-a331-313630393264/photo_2022-09-06_145.jpeg)
+![photo_2025-05-13_23-34-13](https://github.com/user-attachments/assets/94a19986-e21b-47df-8bc7-a083f4c8ab1c)
